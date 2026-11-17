@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mock-1",
+    "character": "Ironclad",
+    "ascension": 0,
+    "mode": "standard",
+    "result": "win",
+    "deck": ["Strike", "Strike", "Bash"],
+    "relics": ["Burning Blood"]
+  },
+  {
+    "id": "mock-2",
+    "character": "Defect",
+    "ascension": 2,
+    "mode": "standard",
+    "result": "loss",
+    "deck": ["Strike", "Zap", "Dualcast"],
+    "relics": ["Cracked Core"]
+  }
+]
